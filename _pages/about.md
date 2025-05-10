@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-HelloI'm a master student in Data Science and Statistics at NYU. I'm generally interested in machine learning. Nice to meet you!
+Hello, I'm a master student in Data Science and Statistics at NYU. I'm generally interested in machine learning. Nice to meet you!
 
 One of my biggest inspirations outside data science is snooker legend Ronnie O'Sullivan. I've followed his matches for over a decade and always admired his sharp style: fast, precise, and fearless. His mastery of middle-pocket pots reflect the kind of clarity, control and confidence I strive for in both life and work.
 
